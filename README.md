@@ -5,6 +5,6 @@ Repositorio para el taller de git
 
 ***BOBO***
 
-### Encabezado del tipo H·
+### Encabezado del tipo H3
 
 que si fran que si
